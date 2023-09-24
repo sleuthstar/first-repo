@@ -7,4 +7,4 @@ Hope this environment is friendly.
 
 ## Intro to Branching
 
-1. Open index.html in your browser
+1. Open index.html in your web browser.
